@@ -15,4 +15,4 @@ Simple Android ToDo App built using Kotlin and Jetpack Compose.
 - Android Studio
 
 ## Author
-Jyothi
+Jyothi kolli
