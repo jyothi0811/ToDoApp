@@ -21,5 +21,8 @@ Simple Android ToDo App built using Kotlin and Jetpack Compose.
 <img width="357" height="784" alt="Screenshot 2026-05-23 134331" src="https://github.com/user-attachments/assets/f1184560-c748-4346-8857-0651ebd02286" />
 <img width="375" height="785" alt="Screenshot 2026-05-23 134342" src="https://github.com/user-attachments/assets/bd542be2-c77f-4a54-8288-e73b446dc392" />
 
+## Demo video
+https://drive.google.com/file/d/1uOp7s8SVA3L_r6aCtxZ_j41u-lih7iRK/view?usp=drive_link
+
 ## Author
 Jyothi kolli
